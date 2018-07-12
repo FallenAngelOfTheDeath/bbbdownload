@@ -1,0 +1,56 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: createwebinar
+Label: BBB Download
+Codename: stable
+Date: Thu, 12 Jul 2018 08:04:09 UTC
+Architectures: amd64 i386 sourse
+Components: main
+Description: BBB Download
+MD5Sum:
+ 1eb33ee3b877c09341827d5c862f2b9f 566 main/binary-amd64/Packages
+ 399640df586ae7b49dc35feaa94fa8f3 413 main/binary-amd64/Packages.gz
+ 655b91388cbfa61a77c5d0d5aac0a1a7 104 main/binary-amd64/Release
+ 1eb33ee3b877c09341827d5c862f2b9f 566 main/binary-i386/Packages
+ 399640df586ae7b49dc35feaa94fa8f3 413 main/binary-i386/Packages.gz
+ ab734757636bd37b6413debd09e64bb8 103 main/binary-i386/Release
+ 1eb33ee3b877c09341827d5c862f2b9f 566 main/binary-sourse/Packages
+ 399640df586ae7b49dc35feaa94fa8f3 413 main/binary-sourse/Packages.gz
+ cc880d6ca677e07d89c0c90ef3c7e10e 105 main/binary-sourse/Release
+SHA1:
+ 7f0d49e4fa7231dc24f88fa218122d2f6dc60550 566 main/binary-amd64/Packages
+ 908330dd2fe904e4bd023533b1fe8a1c73f33dd4 413 main/binary-amd64/Packages.gz
+ 53f9651f3d4018db3095dd70392eb115458d41d5 104 main/binary-amd64/Release
+ 7f0d49e4fa7231dc24f88fa218122d2f6dc60550 566 main/binary-i386/Packages
+ 908330dd2fe904e4bd023533b1fe8a1c73f33dd4 413 main/binary-i386/Packages.gz
+ a875cda357e82e8111bb79fc7866a2052543a6f3 103 main/binary-i386/Release
+ 7f0d49e4fa7231dc24f88fa218122d2f6dc60550 566 main/binary-sourse/Packages
+ 908330dd2fe904e4bd023533b1fe8a1c73f33dd4 413 main/binary-sourse/Packages.gz
+ 54b8adc42733ca6c5a9ce297867fce4249e445fd 105 main/binary-sourse/Release
+SHA256:
+ 86a3bfc3accdce6a0fc908ded94339a33bef4734c9a6c889d695576d9bf25064 566 main/binary-amd64/Packages
+ 184dbe37530e1b6e5a63486c590676b7d54483df334faaaffe6ac1a72e2745bd 413 main/binary-amd64/Packages.gz
+ 9b86e5bb63f4039291942f0528ca3e9a3b58e8d6f007947dd5e5dc0e206ed408 104 main/binary-amd64/Release
+ 86a3bfc3accdce6a0fc908ded94339a33bef4734c9a6c889d695576d9bf25064 566 main/binary-i386/Packages
+ 184dbe37530e1b6e5a63486c590676b7d54483df334faaaffe6ac1a72e2745bd 413 main/binary-i386/Packages.gz
+ f073aaa0e0c2b9167a3e13766b70de8830e4678879d261d898e4c772fdda975f 103 main/binary-i386/Release
+ 86a3bfc3accdce6a0fc908ded94339a33bef4734c9a6c889d695576d9bf25064 566 main/binary-sourse/Packages
+ 184dbe37530e1b6e5a63486c590676b7d54483df334faaaffe6ac1a72e2745bd 413 main/binary-sourse/Packages.gz
+ 3c9af2847e48f89a149e70b81feee6fcf4abf91740e829b9eb9ce43324af5606 105 main/binary-sourse/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEGRMgt79JA0B+BXzmo35Fve49k4sFAltHC3oACgkQo35Fve49
+k4vOHw/9FK5UNj6Iwp/LPNqcyM39h+OYkVsWaiyU2e4xgFuYcqFWQ9M1Ocp18pJi
+9dQph9Wild8yd7e0k1gSZRcEatZxd+VWxGVB1vl5PDr80jm8ebaXXco0DQ8V+U5Z
+c5nHntAKspSKKjyh3EU7IredcvrvYoaxy0xJjVkHelgFXPH7N67QQaYDyBfEj5RN
+j0rLElHj7wyvXAMVKFGk20h7l0834igiGVPUCf2dtYJ28FJcaPSFEW1JtL3ppP4n
+pkdn8InoWhd73lecFSVNzmTozMiHwxK95+xcyVg/7FZcISGdvvYDnvhf6d6N9tom
+YL5i+PfoamHmcevElkCT5sPeUb4gvpiiXpXXfGDIunhESZUcVIzCl4m4YsS89NvL
+Sk6EfG2c9xYogrIBU/cB4was9wAQJln/x0pcvFTVBpWWKIkfijKK7RssEFEykODS
+9Cd7VXgArlkkDzJn1lMsi4cZJi4V2fFQmCX0U+JmZvb39ieO9R10AOrd94pxQdGj
+pDraWwqEuDUmf7XO/cqkXEOGq/yMDPwy/bEY4L+vgSFwDB73A2Jx0rp/xzOKkKW1
+HPWWZMQY2n+wnrqBkyKxeb/XyHuwd59dBmMr+2k5v9OuDav/1EidsdZ6lU4885gf
+AJleRB2AfdF6zPxUEQO0jiijiqoBDFaJv5jJ2N0WzwBkXi7Ar6w=
+=c7Nc
+-----END PGP SIGNATURE-----

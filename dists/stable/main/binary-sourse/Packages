@@ -1,0 +1,15 @@
+Package: bbbdownload
+Version: 1.0.0
+Architecture: all
+Maintainer: D <t@t.t>
+Installed-Size: 74529
+Homepage: <createwebinar.com>
+Priority: optional
+Section: utils
+Filename: pool/main/b/bbbdownload/bbbdownload_1.0.0_all.deb
+Size: 25155266
+SHA256: 528c58f6edd52a2822a8a86ad37dd3e91e52206ca94af630db3ceb846a665dc1
+SHA1: fc6bb5aa01c06e4b3e365ad3444ae7ad33ae428b
+MD5sum: 914ec18865c6ad206c6cae286646926c
+Description: A pytjon script that produces downloadavble meterial for existing and new recordings in aBigBlueButton 1.1 installation. BBB >= 2.0 is not supported yet.
+

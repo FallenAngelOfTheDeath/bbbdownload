@@ -1,0 +1,8 @@
+Origin: createwebinar
+Label: BBB Download
+Codename: stable
+Architectures: amd64 i386 sourse
+Components: main
+Description: BBB Download
+SignWith: yes
+Pull: stable
