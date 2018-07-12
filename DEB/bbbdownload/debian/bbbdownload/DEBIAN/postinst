@@ -1,0 +1,37 @@
+#!/bin/bash
+
+# Install python
+sudo apt-get install -y python
+
+# Install additional libs need to convertation process
+sudo apt-get install -y curl libsdl2-mixer-2.0-0 libsdl2-image-2.0-0 libsdl2-2.0-0 libva-x11-1 libva-drm1 libfdk-aac-dev
+
+# Copy ffmpeg to /opt/ffmpeg folder
+mkdir -p /opt/ffmpeg
+cp usr/bin/bbbdownload/install/ffmpeg/* /opt/ffmpeg
+chmod 755 /opt/ffmpeg/ffmpeg
+
+mkdir -p /usr/local/bigbluebutton/core/scripts/post_publish/
+chmod 755 /usr/local/bigbluebutton/core/scripts/post_publish/*
+
+#Set up NGINX to make MP4 files available for createwebinar.com
+mkdir -p /var/www
+mkdir -p /var/www/bigbluebutton-default/download
+3chmod 755 /var/www/bigbluebutton-default/download
+ln -s /var/bigbluebutton/published/presentation /var/www/bigbluebutton-default/download
+
+mkdir -p /var/bigbluebutton/published/presentation
+chmod 0755 /var/bigbluebutton/published/presentation
+
+# Create log directory
+mkdir -p /var/log/bigbluebutton/download
+chown tomcat7:tomcat7 /var/log/bigbluebutton/download
+chmod -R go+rw /var/log/bigbluebutton/download/
+
+
+# Copy python scripts to post_publish directory
+cp usr/bin/bbbdownload/install/src/*.py /usr/local/bigbluebutton/core/scripts/post_publish
+
+# Copy ruby script that controlls the download process
+cp usr/bin/bbbdownload/install/src/*.rb /usr/local/bigbluebutton/core/scripts/post_publish
+

@@ -1,0 +1,15 @@
+2c1c00f9d3ed9e24fa69b932b7e7aff2  usr/bin/bbbdownload/install/LICENSE
+124761141a1ac596c99463c4e813e862  usr/bin/bbbdownload/install/README.md
+469a254d4959e1407f217c79eda2dfe7  usr/bin/bbbdownload/install/ffmpeg/ffmpeg
+fbd6258f07963677b3872548c5d54c7e  usr/bin/bbbdownload/install/ffmpeg/ffplay
+96476d5784a350cbd144b6c6ca9feb28  usr/bin/bbbdownload/install/ffmpeg/ffprobe
+1131ed1c469164c40293928f9dac436c  usr/bin/bbbdownload/install/ffmpeg/ffserver
+53e695cf3d71533f27a355cc42e1b851  usr/bin/bbbdownload/install/ffmpeg/nasm
+abb18a2c1fa993ef4d5c7de1537ea0cc  usr/bin/bbbdownload/install/ffmpeg/ndisasm
+f4c4a2500ee5d10ed12d974bf2146508  usr/bin/bbbdownload/install/install.sh
+d8e79999d68a4eab3fea31c610067b3d  usr/bin/bbbdownload/install/src/download.py
+efce3273690f6a1fb48f11b2347d3982  usr/bin/bbbdownload/install/src/download_control.rb
+f117dd87361dd8212b970eeaabb937a7  usr/bin/bbbdownload/install/src/ffmpeg.py
+12d862a5e82a120dc0645c4cad8a58ed  usr/share/doc/bbbdownload/README.Debian
+746590b8619cb562e796557b87fc622f  usr/share/doc/bbbdownload/changelog.gz
+61106757fc51e973d8189b2618a97cb0  usr/share/doc/bbbdownload/copyright

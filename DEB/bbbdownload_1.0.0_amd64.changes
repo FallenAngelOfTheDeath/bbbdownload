@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Tue, 10 Jul 2018 18:20:22 +0300
+Source: bbbdownload
+Binary: bbbdownload
+Architecture: source all
+Version: 1.0.0
+Distribution: unstable
+Urgency: medium
+Maintainer: D <t@t.t>
+Changed-By: createwebinar <t@t.t>
+Description:
+ bbbdownload - A pytjon script that produces downloadavble meterial for existing
+Changes:
+ bbbdownload (1.0.0) unstable; urgency=medium
+ .
+   * Initial Release.
+Checksums-Sha1:
+ 6ce33ecaf33b617c8983213a3b3afb7adc20bf54 544 bbbdownload_1.0.0.dsc
+ 1890685bcac1da73bd529c937ba1dc5fbd255158 25067792 bbbdownload_1.0.0.tar.xz
+ 33821d873c3b86bb41a72aa45437a6b9603426ed 25153972 bbbdownload_1.0.0_all.deb
+ 9ac46a1a4a6a180cffab85563ad718b960e565e0 5249 bbbdownload_1.0.0_amd64.buildinfo
+Checksums-Sha256:
+ 3cb0e4b8772d8bed9e70d1648cbda1ea78c5963f1c1982d0afd8255c3f8a79f9 544 bbbdownload_1.0.0.dsc
+ 8de08c88ec8de5ab129d4b86f3fb8df7293b6f2518bd1df1214c9c4c4a242384 25067792 bbbdownload_1.0.0.tar.xz
+ 8f0f8a58bd0bb398c740febb0fae1a46eba9ac74c571da67150358929cabe5c2 25153972 bbbdownload_1.0.0_all.deb
+ 0b4002a88586993c097e58bf6c0b8e0de662fb8e52481179768a1b339d4e659d 5249 bbbdownload_1.0.0_amd64.buildinfo
+Files:
+ 9df021e73f0e629ac0d9a69cd41c157b 544 utils optional bbbdownload_1.0.0.dsc
+ 5f761a1b711548abf24c14205cb90197 25067792 utils optional bbbdownload_1.0.0.tar.xz
+ a32e8472ea74e61a8a0482062c13aea2 25153972 utils optional bbbdownload_1.0.0_all.deb
+ 8651ad87edf437fd1606b8912b232eb0 5249 utils optional bbbdownload_1.0.0_amd64.buildinfo
